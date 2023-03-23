@@ -1,3 +1,4 @@
+![LinkedIn Personal Banner Shawn Krise](https://user-images.githubusercontent.com/124743567/227368673-37410535-f548-4f74-8f11-935737f20337.png)
 # 💫 About Me:
 🌱 I’m currently learning ReactJS and Front-End Development<br><br>👨‍💻 Many of my projects are available at https://shawnkrise.github.io/<br><br>📫 Reach me at shawnkrise@gmail.com
 
